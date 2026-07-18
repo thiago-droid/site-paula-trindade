@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulasalviatrindade.com.br/sitemap.xml
